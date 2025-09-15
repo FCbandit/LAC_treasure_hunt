@@ -2,7 +2,7 @@
     "title": "Los Angeles County Treasure Hunt",
     "description": "How Well Do You Know LA County?",
     "serviceURL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/ArcGIS/rest/services/survey123_f3c95ee6aeb34ba6bed05e99030a87b8_results/FeatureServer/0",
-    "path": "GIS-day-2025",
+    "path": "gisday-2025",
     "introImage": "./statue_of_liberty.jpg",
     "initCenter": [-40, 29],
     "homeZoom": 3,
